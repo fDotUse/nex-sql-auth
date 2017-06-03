@@ -1,0 +1,25 @@
+{
+  "name": "nex-sql-auth",
+  "version": "1.0.0",
+  "description": "Express boilerplate with sql and jwt auth",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fDotUse/nex-sql-auth.git"
+  },
+  "keywords": [
+    "express",
+    "sql",
+    "sequalize",
+    "jwt"
+  ],
+  "author": "Sergio Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fDotUse/nex-sql-auth/issues"
+  },
+  "homepage": "https://github.com/fDotUse/nex-sql-auth#readme"
+}
