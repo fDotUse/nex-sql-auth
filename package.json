@@ -4,7 +4,7 @@
   "description": "Express boilerplate with sql and jwt auth",
   "main": "app.js",
   "scripts": {
-    "test": "test",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "prod": "cross-env NODE_ENV=prod yarn start",
     "dev": "cross-env NODE_ENV=dev nodemon index.js"
@@ -40,6 +40,9 @@
     "lodash": "^4.17.4",
     "morgan": "^1.8.2",
     "nodemon": "^1.11.0",
+    "pg": "^6.2.4",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.0.0",
     "standard": "^10.0.2",
     "url": "^0.11.0"
   }
